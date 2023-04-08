@@ -1,0 +1,15 @@
+H:\Rider projects\work8.2\work8.2\bin\Debug\net7.0\work8.2.exe
+H:\Rider projects\work8.2\work8.2\bin\Debug\net7.0\work8.2.deps.json
+H:\Rider projects\work8.2\work8.2\bin\Debug\net7.0\work8.2.runtimeconfig.json
+H:\Rider projects\work8.2\work8.2\bin\Debug\net7.0\work8.2.dll
+H:\Rider projects\work8.2\work8.2\bin\Debug\net7.0\work8.2.pdb
+H:\Rider projects\work8.2\work8.2\obj\Debug\net7.0\work8.2.csproj.AssemblyReference.cache
+H:\Rider projects\work8.2\work8.2\obj\Debug\net7.0\work8.2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Rider projects\work8.2\work8.2\obj\Debug\net7.0\work8.2.AssemblyInfoInputs.cache
+H:\Rider projects\work8.2\work8.2\obj\Debug\net7.0\work8.2.AssemblyInfo.cs
+H:\Rider projects\work8.2\work8.2\obj\Debug\net7.0\work8.2.csproj.CoreCompileInputs.cache
+H:\Rider projects\work8.2\work8.2\obj\Debug\net7.0\work8.2.dll
+H:\Rider projects\work8.2\work8.2\obj\Debug\net7.0\refint\work8.2.dll
+H:\Rider projects\work8.2\work8.2\obj\Debug\net7.0\work8.2.pdb
+H:\Rider projects\work8.2\work8.2\obj\Debug\net7.0\work8.2.genruntimeconfig.cache
+H:\Rider projects\work8.2\work8.2\obj\Debug\net7.0\ref\work8.2.dll
